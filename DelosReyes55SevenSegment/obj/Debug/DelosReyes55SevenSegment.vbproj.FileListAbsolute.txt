@@ -1,0 +1,12 @@
+C:\Users\Renee\source\repos\DelosReyes55SevenSegment\DelosReyes55SevenSegment\bin\Debug\DelosReyes55SevenSegment.exe.config
+C:\Users\Renee\source\repos\DelosReyes55SevenSegment\DelosReyes55SevenSegment\bin\Debug\DelosReyes55SevenSegment.exe
+C:\Users\Renee\source\repos\DelosReyes55SevenSegment\DelosReyes55SevenSegment\bin\Debug\DelosReyes55SevenSegment.pdb
+C:\Users\Renee\source\repos\DelosReyes55SevenSegment\DelosReyes55SevenSegment\bin\Debug\DelosReyes55SevenSegment.xml
+C:\Users\Renee\source\repos\DelosReyes55SevenSegment\DelosReyes55SevenSegment\obj\Debug\DelosReyes55SevenSegment.vbprojAssemblyReference.cache
+C:\Users\Renee\source\repos\DelosReyes55SevenSegment\DelosReyes55SevenSegment\obj\Debug\DelosReyes55SevenSegment.Form1.resources
+C:\Users\Renee\source\repos\DelosReyes55SevenSegment\DelosReyes55SevenSegment\obj\Debug\DelosReyes55SevenSegment.Resources.resources
+C:\Users\Renee\source\repos\DelosReyes55SevenSegment\DelosReyes55SevenSegment\obj\Debug\DelosReyes55SevenSegment.vbproj.GenerateResource.cache
+C:\Users\Renee\source\repos\DelosReyes55SevenSegment\DelosReyes55SevenSegment\obj\Debug\DelosReyes55SevenSegment.vbproj.CoreCompileInputs.cache
+C:\Users\Renee\source\repos\DelosReyes55SevenSegment\DelosReyes55SevenSegment\obj\Debug\DelosReyes55SevenSegment.exe
+C:\Users\Renee\source\repos\DelosReyes55SevenSegment\DelosReyes55SevenSegment\obj\Debug\DelosReyes55SevenSegment.xml
+C:\Users\Renee\source\repos\DelosReyes55SevenSegment\DelosReyes55SevenSegment\obj\Debug\DelosReyes55SevenSegment.pdb
